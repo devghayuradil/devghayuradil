@@ -1,3 +1,5 @@
+Hi 👋, I'm Ghayur Adil
+
 # 💫 About Me:
 Hello! I'm Ghayur Adil, a front-end developer who is passionate about creating smooth user experiences.<br> I have several years of experience in managing the entire front-end development process, from ideation to delivery.
 
