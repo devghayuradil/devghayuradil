@@ -13,7 +13,6 @@
 <ul dir="auto">
   <li>Associate Software Engineer <a href="https://www.linkedin.com/company/gaditek/mycompany/" rel="nofollow">@Gaditek</a> | <a href="https://www.linkedin.com/company/squat-wolf/mycompany/" rel="nofollow">@Squatwolf</a> </li>
   <li>Frontend Developer <a href="https://www.linkedin.com/company/informiatechpvtltd/" rel="nofollow">@Informiatech</a> </li>
-  <li>Frontend Developer <a href="https://www.linkedin.com/company/techlabcorp/" rel="nofollow">@Techlab</a> </li>
 </ul>
 
 
